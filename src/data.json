@@ -1,0 +1,149 @@
+{
+  "planBoundary": { "x": 15, "y": 15 },
+  "rooms": [
+    {
+      "id": "m1",
+      "width": 4,
+      "height": 3,
+      "anchorTopLeftX": 0,
+      "anchorTopLeftY": 0,
+      "type": "m1"
+    },
+    {
+      "id": "m1",
+      "width": 4,
+      "height": 3,
+      "anchorTopLeftX": 0,
+      "anchorTopLeftY": 3,
+      "type": "m1"
+    },
+    {
+      "id": "m1",
+      "width": 4,
+      "height": 3,
+      "anchorTopLeftX": 0,
+      "anchorTopLeftY": 6,
+      "type": "m1"
+    },
+    {
+      "id": "w",
+      "width": 3,
+      "height": 2,
+      "anchorTopLeftX": 4,
+      "anchorTopLeftY": 0,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 7,
+      "anchorTopLeftY": 0,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 3,
+      "height": 2,
+      "anchorTopLeftX": 12,
+      "anchorTopLeftY": 0,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 3,
+      "height": 2,
+      "anchorTopLeftX": 12,
+      "anchorTopLeftY": 2,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 3,
+      "height": 2,
+      "anchorTopLeftX": 12,
+      "anchorTopLeftY": 4,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 3,
+      "height": 2,
+      "anchorTopLeftX": 12,
+      "anchorTopLeftY": 6,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 3,
+      "height": 2,
+      "anchorTopLeftX": 12,
+      "anchorTopLeftY": 8,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 0,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 2,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 4,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 6,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 8,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 10,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 12,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    },
+    {
+      "id": "w",
+      "width": 2,
+      "height": 3,
+      "anchorTopLeftX": 14,
+      "anchorTopLeftY": 12,
+      "type": "w"
+    }
+  ]
+}
