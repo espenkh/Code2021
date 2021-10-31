@@ -115,6 +115,8 @@ class building:
         meetingRooms2ListCopy = self.meetingRooms2List.copy()
         meetingRooms1ListCopy = self.meetingRooms1List.copy()
         workingRoomsListCopy = self.workingRoomsList.copy()
+        
+        # creating some empty rooms, and putting them in the first. 
         self.topRooms.append(emptyRoom())
         self.topRooms[-1].posTopLeft[1] = self.y
         self.rightRooms.append(emptyRoom())
